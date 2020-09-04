@@ -1,0 +1,9 @@
+{
+    "name": "vscode-extension-redirect",
+    "version": "1.0.0",
+    "description": "Cloudflare Worker for redirecting users to VSCode extension pages",
+    "main": "index.js",
+    "author": "Switchblade Team",
+    "license": "MIT"
+  }
+  
