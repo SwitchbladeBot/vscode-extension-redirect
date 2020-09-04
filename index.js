@@ -9,7 +9,6 @@ async function handleRequest(request) {
       <script>
           window.onload = function () {
             window.location.replace("vscode:extension/${extension}");
-            window.close()
           }
       </script>
   </head>
