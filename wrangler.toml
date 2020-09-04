@@ -1,4 +1,4 @@
-name = "crowdinwebhooks"
+name = "vscode"
 type = "webpack"
 account_id = "0f5f74345473f28bf90d6fc8288f3d2a"
 route = "vscoderedirect.switchblade.xyz/*"
